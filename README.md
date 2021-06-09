@@ -24,6 +24,10 @@ I'm currently getting a Master Degree in Physics. My specialisation path is Stat
 
 ---
 
+### Work 💡
+
+---
+
 ### Parkour 🏃🔥
 After spending many years without finding something I enjoy doing, I came across parkour in my second year of University. It was a revelation: parkour is freedom, rules and challenges all at the same time. I'm not a pro, but I never miss an opportunity to challenge myself. My next goal is to manage to perform a front flip. During these times where gatherings are not the best idea, I tend to work out at home to be ready when we will be able to train outside once again.
 
