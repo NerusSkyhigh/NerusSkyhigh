@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+parts:
+  - caption: Storytelling
+    chapters:
+    - file: ST00-Storytelling.md
+      sections:
+      - file: ST2019-02-20-nothing-to-show
+      - file: ST2020-11-25-restarting-from-the-end
+#  - caption: Name of Part 2
+#    chapters:
+#    - file: markdown
+#    - file: notebooks
