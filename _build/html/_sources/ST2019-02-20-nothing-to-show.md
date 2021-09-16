@@ -1,5 +1,5 @@
-# Nothing to show
-<p>
+## Nothing to show
+<p align="justify">
 	When I began researching for the first version of this show over a year ago, I asked myself a question: "What could I show the audience that would be stunning and unforgettable?" The answer I found amazed even me. "Seeing... one doesn't always need to see something to appreciate it". In fact, I have nothing to show.
 </p>
 

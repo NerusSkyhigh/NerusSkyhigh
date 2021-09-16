@@ -47,8 +47,6 @@ It's a Post Office. Burnfire street n° 15, Aberfeldy. It's the damn postal offi
 </p>
 ---
 
-'''
 <p align="justify">
 A shorter version of this text was recorded for the [Raw Materials University Day @UniTrento](https://webmagazine.unitn.it/evento/ateneo/79144/le-materie-prime-la-lettura-del-passato-per-comprendere-il-presente-e-gestire-il). The texts were review, improved and shortened by _A. Brunello_ and recorded at [Teatro Portland](https://www.teatroportland.it/). We received a positive feedback from the people who watched the recordings at the event.
 </p>
-'''
