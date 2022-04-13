@@ -1,11 +1,27 @@
-## About me
+Hi, I'm Guglielmo Grillo aka NerusSkyhigh.
 
-
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
+# About me
 I'm a Physics Student, traceur, storyteller and overall a curious person!
+
+
+# Projects:
+
+## Personal projects:
+
+## University:
+
+### Computational methods for transport phenomena
+[github repository](https://github.com/NerusSkyhigh/CMfTP)
+In this repository ...
+Aim of the course was ...
+
+### Laboratory of Advanced Electronics
+[notes (github repository)](https://github.com/NerusSkyhigh/Advanced-Electronics)
+[notes (website)](https://nerusskyhigh.github.io/Advanced-Electronics/README.html)
+[verilog projects (TBA)](.)
+
+
+<!-- I believe that life can arise only from the opposites and, because of that, our lives are full of conflicts: love and differences, passions and work, play and study. Sometimes I feel that one life is not enough to do everything I wish to do. Yet, there is hope. If only I manage to find a balance between all these opposite forces. This is a portfolio where I collect all the things I do while trying to find balance. -->
 
 <!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -15,25 +31,29 @@ I'm a Physics Student, traceur, storyteller and overall a curious person!
 - ⚡ Fun fact: I love to draw and play guitar / drums
 -->
 
-### University 📖
+
+<!--
+## University 📖
 I'm currently getting a Master Degree in Physics. My specialisation path is Statistical Mechanics with a focus on computational methods. I choose this path because...
 
 ---
 
-### Progetto Apollo 🚀
+## Progetto Apollo 🚀
 
+PA
 ---
 
-### Work 💡
+## Work 💡
 
+Some
 ---
 
-### Parkour 🏃🔥
+## Parkour 🏃🔥
 After spending many years without finding something I enjoy doing, I came across parkour in my second year of University. It was a revelation: parkour is freedom, rules and challenges all at the same time. I'm not a pro, but I never miss an opportunity to challenge myself. My next goal is to manage to perform a front flip. During these times where gatherings are not the best idea, I tend to work out at home to be ready when we will be able to train outside once again.
 
 ---
 
-### Videogames 🎮
+## Videogames 🎮
 Games are a big part of my life because they represent how I aim to live my life: with a good story worth to be told, challenging and always with more room for improvement.
 
 Lately I've been playing a lot of Doom Eternal, right now my goal is to beat again the DLC at Nightmare without using the Sentinel Armor during the last boss battle.
@@ -51,21 +71,24 @@ Lately I've been playing a lot of Doom Eternal, right now my goal is to beat aga
 ---
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Guglielmo Grillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nerusskyhigh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nerusskyhigh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="assets/icons/python.svg" />][website]
+[<img align="left" alt="Python" width="26px" src="assets/icons/python.svg" />][website]
 
 <!-- https://simpleicons.org/ -->
 
 
-[website]: .
+[website]: https://nerusskyhigh.github.io/
+[twitter]: https://twitter.com/nerusskyhigh
 [instagram]: https://www.instagram.com/_sir_gg_/
 [linkedin]: https://www.linkedin.com/in/guglielmo-grillo/
