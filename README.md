@@ -11,14 +11,14 @@ I'm a Physics Student, traceur, storyteller and overall a curious person!
 ### University:
 
 #### Computational methods for transport phenomena
-[github repository](https://github.com/NerusSkyhigh/CMfTP)
+[github repository](https://github.com/NerusSkyhigh/CMfTP)  
 In this repository ...  
 Aim of the course was ...
 
 #### Laboratory of Advanced Electronics
 [notes (github repository)](https://github.com/NerusSkyhigh/Advanced-Electronics)  
 [notes (website)](https://nerusskyhigh.github.io/Advanced-Electronics/README.html)  
-[verilog projects (TBA)](.)  
+[Code and Exam project](https://github.com/NerusSkyhigh/LoAE-code)  
 
 
 <!-- I believe that life can arise only from the opposites and, because of that, our lives are full of conflicts: love and differences, passions and work, play and study. Sometimes I feel that one life is not enough to do everything I wish to do. Yet, there is hope. If only I manage to find a balance between all these opposite forces. This is a portfolio where I collect all the things I do while trying to find balance. -->
