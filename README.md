@@ -7,6 +7,8 @@ Hi, I'm a Master's physics student at Trento with a strong passion for computer 
 ## Projects:
 
 ### Personal projects:
+#### Practical Deep Learning for Coders
+I'm taking the course [Practical Deep Learning for Coders](https://course.fast.ai/). If you are interested in my homework and projects, you can find them in [**this repository**](https://github.com/NerusSkyhigh/practicaldeeplearning)
 
 ### University:
 
@@ -16,7 +18,7 @@ Hi, I'm a Master's physics student at Trento with a strong passion for computer 
 #### Computational methods for transport phenomena
 [github repository](https://github.com/NerusSkyhigh/CMfTP)  
 In this repository ...  
-Aim of the course was ...
+The aim of the course was ...
 
 #### Laboratory of Advanced Electronics
 [notes (github repository)](https://github.com/NerusSkyhigh/Advanced-Electronics)  
@@ -31,13 +33,13 @@ Aim of the course was ...
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play guitar/drums
 -->
 
 
 <!--
 ## University 📖
-I'm currently getting a Master Degree in Physics. My specialisation path is Statistical Mechanics with a focus on computational methods. I choose this path because...
+I'm currently getting a Master's Degree in Physics. My specialization path is Statistical Mechanics with a focus on computational methods. I choose this path because...
 
 ---
 
@@ -52,14 +54,14 @@ Some
 ---
 
 ## Parkour 🏃🔥
-After spending many years without finding something I enjoy doing, I came across parkour in my second year of University. It was a revelation: parkour is freedom, rules and challenges all at the same time. I'm not a pro, but I never miss an opportunity to challenge myself. My next goal is to manage to perform a front flip. During these times where gatherings are not the best idea, I tend to work out at home to be ready when we will be able to train outside once again.
+After spending many years without finding something I enjoy doing, I came across parkour in my second year of University. It was a revelation: parkour is freedom, rules, and challenges all at the same time. I'm not a pro, but I never miss an opportunity to challenge myself. My next goal is to manage to perform a front flip. During these times when gatherings are not the best idea, I tend to work out at home to be ready when we will be able to train outside once again.
 
 ---
 
 ## Videogames 🎮
-Games are a big part of my life because they represent how I aim to live my life: with a good story worth to be told, challenging and always with more room for improvement.
+Games are a big part of my life because they represent how I aim to live my life: with a good story worth being told, challenging, and always with more room for improvement.
 
-Lately I've been playing a lot of Doom Eternal, right now my goal is to beat again the DLC at Nightmare without using the Sentinel Armor during the last boss battle.
+Lately, I've been playing a lot of Doom Eternal, right now my goal is to beat again the DLC at Nightmare without using the Sentinel Armor during the last boss battle.
 
 <details>
   <summary>Other games I loved, in no particular order, are:</summary>
@@ -79,7 +81,7 @@ Lately I've been playing a lot of Doom Eternal, right now my goal is to beat aga
 [<img align="left" alt="." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Guglielmo Grillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nerusskyhigh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="nerusskyhigh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nerusskyhigh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
 
 <br />
@@ -92,6 +94,6 @@ Lately I've been playing a lot of Doom Eternal, right now my goal is to beat aga
 
 
 [website]: https://nerusskyhigh.github.io/
-[twitter]: https://twitter.com/nerusskyhigh
+[Twitter]: https://twitter.com/nerusskyhigh
 [instagram]: https://www.instagram.com/_sir_gg_/
 [linkedin]: https://www.linkedin.com/in/guglielmo-grillo/
