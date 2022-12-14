@@ -8,22 +8,32 @@ Hi, I'm a Master's physics student at Trento with a strong passion for computer 
 
 ### Personal projects:
 #### Practical Deep Learning for Coders
+> Personal project on hold due to lack of time
+
 I'm taking the course [Practical Deep Learning for Coders](https://course.fast.ai/). If you are interested in my homework and projects, you can find them in [**this repository**](https://github.com/NerusSkyhigh/practicaldeeplearning)
 
+# Magic TCG card recognition
+A personal project that I'm carrying on with a friend of mine. We are not ready to disclose our project, but we aim to design a machine able to detect Magic TCG cards, sort them, and esteem the market value of a deck of cards.
+
+
 ### University:
+
+#### Computational Physics (Master course)
+[Machine Learning Phases of Matter - Github repository](https://github.com/NerusSkyhigh/Machine-Learning-Phases-of-Matter): this project aims to reobtain the results presented in Machine learning phases of matter regarding the two-dimensional square Ising model.
+Course assignments: coming soon
+
+
+#### Laboratory of Advanced Electronics
+[notes (GitHub repository)](https://github.com/NerusSkyhigh/Advanced-Electronics)  
+[notes (website)](https://nerusskyhigh.github.io/Advanced-Electronics/README.html)  
+[FPGA Code and Exam project](https://github.com/NerusSkyhigh/LoAE-code) 
 
 #### Experimental Methods
 [Exams](https://github.com/NerusSkyhigh/experimental_methods)
 
 #### Computational methods for transport phenomena
 [github repository](https://github.com/NerusSkyhigh/CMfTP)  
-In this repository ...  
-The aim of the course was ...
-
-#### Laboratory of Advanced Electronics
-[notes (github repository)](https://github.com/NerusSkyhigh/Advanced-Electronics)  
-[notes (website)](https://nerusskyhigh.github.io/Advanced-Electronics/README.html)  
-[Code and Exam project](https://github.com/NerusSkyhigh/LoAE-code)  
+Only part of the code is available. The rest needs to be polished. 
 
 
 <!-- I believe that life can arise only from the opposites and, because of that, our lives are full of conflicts: love and differences, passions and work, play and study. Sometimes I feel that one life is not enough to do everything I wish to do. Yet, there is hope. If only I manage to find a balance between all these opposite forces. This is a portfolio where I collect all the things I do while trying to find balance. -->
