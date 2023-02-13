@@ -18,10 +18,13 @@ A personal project that I'm carrying on with a friend of mine. We are not ready 
 
 ### University:
 
+#### Multi-scale methods in soft matter physics 
+[Percolation - Github repository](https://github.com/NerusSkyhigh/percolation/): brief introduction to Bernoulli percolation with a review on the existence of the critical point, some slides I used to present the topic, and a Jupyter notebook containing a few interactive plot and simulations (like a Monte Carlo simulation for the critical probability) used to generate the images of the slides.
+
+
 #### Computational Physics (Master course)
 [Machine Learning Phases of Matter - Github repository](https://github.com/NerusSkyhigh/Machine-Learning-Phases-of-Matter): this project aims to reobtain the results presented in Machine learning phases of matter regarding the two-dimensional square Ising model.
 Course assignments: coming soon
-
 
 #### Laboratory of Advanced Electronics
 [notes (GitHub repository)](https://github.com/NerusSkyhigh/Advanced-Electronics)  
