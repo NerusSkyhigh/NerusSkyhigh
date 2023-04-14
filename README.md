@@ -1,43 +1,34 @@
 # Hi, I'm Guglielmo Grillo aka NerusSkyhigh.
 
 ## About me
-Hi, I'm a Master's physics student at Trento with a strong passion for computer science. This passion led me to choose a computational path both for my curricular classes (e.g. _Computational Physics_ (ay. 2021),  _Quantum computing_ (ay. 2021), _Intelligent optimization and machine learning_ (ay. 2019) ) and extracurricular (I took part in the 2021 edition of the _Cyberchallenge_; _Data Mining for Physicists_ (aa 2020) ). I'm one of the founding members of _Progetto Apollo_, a scientific divulgation group operating at the University of Trento in collaboration with Arditodesìo. My hobbies include skill-based videogames and parkour. Since 2019 I've been a tutor for the University of Trento (2019-2020 Calculus, 2021-today Laboratory of Physics).
-
+I’m a recently graduated Physicist (Master’s degree) at Trento with a strong passion for computer science. This passion led me to choose a computational path both for my curricular and extracurricular classes. I’m one of the founding members of Progetto Apollo, a scientific divulgation group operating at the University of Trento in collaboration with Arditodesìo. Since 2019 I’ve been a tutor for the University of Trento. My hobbies include video games and parkour.
 
 ## Projects:
 
-### Personal projects:
-#### Practical Deep Learning for Coders
-> Personal project on hold due to lack of time
+### Personal Projects:
 
+#### Practical Deep Learning for Coders
+[GitHub repository](https://github.com/NerusSkyhigh/practicaldeeplearning)  
 I'm taking the course [Practical Deep Learning for Coders](https://course.fast.ai/). If you are interested in my homework and projects, you can find them in [**this repository**](https://github.com/NerusSkyhigh/practicaldeeplearning)
 
-# Magic TCG card recognition
+#### Magic TCG card recognition
 A personal project that I'm carrying on with a friend of mine. We are not ready to disclose our project, but we aim to design a machine able to detect Magic TCG cards, sort them, and esteem the market value of a deck of cards.
 
 
-### University:
+### University Projects:
 
-#### Multi-scale methods in soft matter physics 
+#### "Percolation - Theory and Applications" - Multi-scale methods in soft matter physics 
 [Percolation - Github repository](https://github.com/NerusSkyhigh/percolation/): brief introduction to Bernoulli percolation with a review on the existence of the critical point, some slides I used to present the topic, and a Jupyter notebook containing a few interactive plot and simulations (like a Monte Carlo simulation for the critical probability) used to generate the images of the slides.
 
+#### Machine Learning Phases of Matter - Advanced Computational Physics
+[GitHub repository](https://github.com/NerusSkyhigh/Machine-Learning-Phases-of-Matter)  
+This project aims to reobtain the results presented in Machine learning phases of matter (Juan Carrasquilla, Roger G. Melko) regarding the two-dimensional square Ising model. The authors show that a standard feed-forward neural network (FFNN) is a suitable tool to detect Ising's model phase transition.
 
-#### Computational Physics (Master course)
-[Machine Learning Phases of Matter - Github repository](https://github.com/NerusSkyhigh/Machine-Learning-Phases-of-Matter): this project aims to reobtain the results presented in Machine learning phases of matter regarding the two-dimensional square Ising model.
-Course assignments: coming soon
-
-#### Laboratory of Advanced Electronics
+#### A Game of Life - Laboratory of Advanced Electronics
 [notes (GitHub repository)](https://github.com/NerusSkyhigh/Advanced-Electronics)  
 [notes (website)](https://nerusskyhigh.github.io/Advanced-Electronics/README.html)  
 [FPGA Code and Exam project](https://github.com/NerusSkyhigh/LoAE-code) 
-
-#### Experimental Methods
-[Exams](https://github.com/NerusSkyhigh/experimental_methods)
-
-#### Computational methods for transport phenomena
-[github repository](https://github.com/NerusSkyhigh/CMfTP)  
-Only part of the code is available. The rest needs to be polished. 
-
+Developed for the course Laboratory of Advanced Electronics including my final project that implements Conway's Game of Life on an FPGA and outputs the results using the VGA standard.
 
 <!-- I believe that life can arise only from the opposites and, because of that, our lives are full of conflicts: love and differences, passions and work, play and study. Sometimes I feel that one life is not enough to do everything I wish to do. Yet, there is hope. If only I manage to find a balance between all these opposite forces. This is a portfolio where I collect all the things I do while trying to find balance. -->
 
