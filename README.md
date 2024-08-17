@@ -1,7 +1,7 @@
 # Hi, I'm Guglielmo Grillo aka NerusSkyhigh.
 
 ## About me
-I’m a recently graduated Physicist (Master’s degree) at Trento with a strong passion for computer science. This passion led me to choose a computational path both for my curricular and extracurricular classes. I’m one of the founding members of Progetto Apollo, a scientific divulgation group operating at the University of Trento in collaboration with Arditodesìo. Since 2019 I’ve been a tutor for the University of Trento. My hobbies include video games and parkour.
+I am a PhD student in Physics at the University of Trento (Statistical and Biological Physics group) with a strong passion for computer science. This passion led me to choose a computational path both for my curricular and extracurricular classes during my bachelor's and Master's degrees and to work on personal projects in my free time. I’m also one of the founding members of Progetto Apollo, a scientific divulgation group operating at the University of Trento in collaboration with Arditodesìo. Since 2019 I’ve been a tutor for the University of Trento. My hobbies include video games, DMing d&d campaigns and parkour.
 
 ## Projects:
 
